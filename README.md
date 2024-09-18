@@ -1,4 +1,6 @@
 # Hand Gesture Drawing & Image Generation
+(see demo :- https://www.linkedin.com/posts/sarang-banakhede-79327823a_aiart-generativeai-computervision-activity-7242262183466684417-NSro?utm_source=share&utm_medium=member_desktop)
+
 This project allows users to draw using hand gestures and generate images based on the drawings with the help of a Stable Diffusion model. It uses MediaPipe to detect hand landmarks and track the movement of the index finger for drawing. When the index and middle fingers come close, the drawing is paused. The drawn image is then processed and used as input to generate a new image based on a user-provided text prompt.
 
 # Features
